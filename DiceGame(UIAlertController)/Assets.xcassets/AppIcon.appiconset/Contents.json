@@ -1,0 +1,14 @@
+{
+  "images" : [
+    {
+      "filename" : "Screen Shot 2022-10-25 at 16.49.40.png",
+      "idiom" : "universal",
+      "platform" : "ios",
+      "size" : "1024x1024"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
